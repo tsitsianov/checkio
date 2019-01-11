@@ -1,3 +1,3 @@
 # checkio
-checkio python scripts
+python scripts from
 https://py.checkio.org/
