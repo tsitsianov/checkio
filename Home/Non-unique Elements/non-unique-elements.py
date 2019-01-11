@@ -1,19 +1,9 @@
-#Your optional code here
-#You can import some modules or create additional functions
-
-
 def checkio(data):
     new_list = []
     for i in data:
         if data.count(i) > 1:
             new_list.append(i)
     return new_list
-
-#Some hints
-#You can use list.count(element) method for counting.
-#Create new list with non-unique elements
-#Loop over original list
-
 
 if __name__ == "__main__":
     #These "asserts" using only for self-checking and not necessary for auto-testing
