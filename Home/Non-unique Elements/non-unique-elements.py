@@ -7,11 +7,6 @@ def checkio(data):
     for i in data:
         if data.count(i) > 1:
             new_list.append(i)
-    #Your code here
-    #It's main function. Don't remove this function
-    #It's used for auto-testing and must return a result for check.  
-
-    #replace this for solution
     return new_list
 
 #Some hints
